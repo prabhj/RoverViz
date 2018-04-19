@@ -1,0 +1,792 @@
+{
+  "users" : {
+    "one" : {
+      "session" : {
+        "count" : {
+          "count" : 52
+        },
+        "events" : [ {
+          "source" : "",
+          "target" : "https://onlinecourses.science.psu.edu/stat501/",
+          "time_in" : 1523417855555,
+          "time_out" : 1523417803839,
+          "title" : "Welcome to STAT 501! | STAT 501"
+        }, {
+          "source" : "https://onlinecourses.science.psu.edu/stat501/",
+          "target" : "https://www.google.com/search?q=google&oq=google&aqs=chrome..69i57j0l5.1270j0j4&sourceid=chrome&ie=UTF-8",
+          "time_in" : 1523417922379,
+          "time_out" : 1523417803839,
+          "title" : "google - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?q=google&oq=google&aqs=chrome..69i57j0l5.1270j0j4&sourceid=chrome&ie=UTF-8",
+          "target" : "https://www.google.com/",
+          "time_in" : 1523417924850,
+          "time_out" : 1523417803839,
+          "title" : "Google"
+        }, {
+          "source" : "https://www.google.com/",
+          "target" : "https://www.google.com/search?source=hp&ei=QoPNWrHJIOnMjwTBzZP4Bg&q=stats+resources&oq=stats+resources&gs_l=psy-ab.3..0j0i22i30k1l5j0i22i10i30k1l2j0i22i30k1l2.12813.16618.0.17011.17.15.1.1.1.0.130.1047.13j1.14.0....0...1c.1.64.psy-ab..1.16.1079...0i131k1j0i10k1.0.aPbyR6CRo3g",
+          "time_in" : 1523417942548,
+          "time_out" : 1523417803839,
+          "title" : "stats resources - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?source=hp&ei=QoPNWrHJIOnMjwTBzZP4Bg&q=stats+resources&oq=stats+resources&gs_l=psy-ab.3..0j0i22i30k1l5j0i22i10i30k1l2j0i22i30k1l2.12813.16618.0.17011.17.15.1.1.1.0.130.1047.13j1.14.0....0...1c.1.64.psy-ab..1.16.1079...0i131k1j0i10k1.0.aPbyR6CRo3g",
+          "target" : "http://stattrek.com/statistics/resources.aspx",
+          "time_in" : 1523417948712,
+          "time_out" : 1523417803839,
+          "title" : "Useful Statistics Resources"
+        }, {
+          "source" : "http://stattrek.com/statistics/resources.aspx",
+          "target" : "http://www.talkstats.com/",
+          "time_in" : 1523417951144,
+          "time_out" : 1523417803839,
+          "title" : "Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/",
+          "target" : "http://www.talkstats.com/forums/statistics.2/",
+          "time_in" : 1523417953852,
+          "time_out" : 1523417803839,
+          "title" : "Statistics | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/forums/statistics.2/",
+          "target" : "http://www.talkstats.com/threads/normal-distribution.71418/",
+          "time_in" : 1523417957444,
+          "time_out" : 1523417803839,
+          "title" : "normal distribution | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/threads/normal-distribution.71418/",
+          "target" : "http://www.talkstats.com/forums/statistics.2/",
+          "time_in" : 1523417961792,
+          "time_out" : 1523417803839,
+          "title" : "Statistics | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/forums/statistics.2/",
+          "target" : "http://www.talkstats.com/threads/null-hypothesis.71400/",
+          "time_in" : 1523417975104,
+          "time_out" : 1523417803839,
+          "title" : "Null Hypothesis | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/threads/null-hypothesis.71400/",
+          "target" : "http://www.talkstats.com/forums/statistics.2/",
+          "time_in" : 1523417978486,
+          "time_out" : 1523417803839,
+          "title" : "Statistics | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/forums/statistics.2/",
+          "target" : "http://www.talkstats.com/threads/shapiro-wilk-effect-size.71396/",
+          "time_in" : 1523417981925,
+          "time_out" : 1523417803839,
+          "title" : "Shapiro wilk effect size | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/threads/shapiro-wilk-effect-size.71396/",
+          "target" : "http://www.talkstats.com/forums/statistics.2/",
+          "time_in" : 1523417989598,
+          "time_out" : 1523417803839,
+          "title" : "Statistics | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/forums/statistics.2/",
+          "target" : "http://www.talkstats.com/threads/app-to-find-chi-square-sample-size.71304/",
+          "time_in" : 1523418152632,
+          "time_out" : 1523417803839,
+          "title" : "App To Find Chi Square sample size | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/threads/app-to-find-chi-square-sample-size.71304/",
+          "target" : "http://www.talkstats.com/forums/statistics.2/",
+          "time_in" : 1523418157581,
+          "time_out" : 1523417803839,
+          "title" : "Statistics | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/forums/statistics.2/",
+          "target" : "http://www.talkstats.com/threads/simple-anova.71332/",
+          "time_in" : 1523418160588,
+          "time_out" : 1523417803839,
+          "title" : "Simple anova? | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/threads/simple-anova.71332/",
+          "target" : "http://www.talkstats.com/forums/statistics.2/",
+          "time_in" : 1523418174185,
+          "time_out" : 1523417803839,
+          "title" : "Statistics | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/forums/statistics.2/",
+          "target" : "http://www.talkstats.com/threads/what-tests-to-use.71296/",
+          "time_in" : 1523418218456,
+          "time_out" : 1523417803839,
+          "title" : "What tests to use? | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/threads/what-tests-to-use.71296/",
+          "target" : "http://www.talkstats.com/forums/statistics.2/",
+          "time_in" : 1523418222158,
+          "time_out" : 1523417803839,
+          "title" : "Statistics | Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/forums/statistics.2/",
+          "target" : "http://www.talkstats.com/",
+          "time_in" : 1523418223643,
+          "time_out" : 1523417803839,
+          "title" : "Statistics Help @ Talk Stats Forum"
+        }, {
+          "source" : "http://www.talkstats.com/",
+          "target" : "https://www.google.com/search?q=cnn&oq=cnn&aqs=chrome..69i57j0l5.582j0j4&sourceid=chrome&ie=UTF-8",
+          "time_in" : 1523418229652,
+          "time_out" : 1523417803839,
+          "title" : "cnn - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?q=cnn&oq=cnn&aqs=chrome..69i57j0l5.582j0j4&sourceid=chrome&ie=UTF-8",
+          "target" : "https://www.cnn.com/",
+          "time_in" : 1523418232424,
+          "time_out" : 1523417803839,
+          "title" : "CNN - Breaking News, Latest News and Videos"
+        }, {
+          "source" : "https://www.cnn.com/",
+          "target" : "http://money.cnn.com/2018/04/10/news/economy/job-hopping-and-wages/index.html",
+          "time_in" : 1523418251051,
+          "time_out" : 1523417803839,
+          "title" : "Why it's better to search for a job while you already have one"
+        }, {
+          "source" : "http://money.cnn.com/2018/04/10/news/economy/job-hopping-and-wages/index.html",
+          "target" : "https://www.cnn.com/",
+          "time_in" : 1523418232424,
+          "time_out" : 1523417803839,
+          "title" : "CNN - Breaking News, Latest News and Videos"
+        }, {
+          "source" : "https://www.cnn.com/",
+          "target" : "https://www.cnn.com/2018/04/10/opinions/insane-right-wing-sliming-of-david-hogg-filipovic/index.html",
+          "time_in" : 1523418269213,
+          "time_out" : 1523417803839,
+          "title" : "The right's insane sliming of David Hogg (opinion) - CNN"
+        }, {
+          "source" : "https://www.cnn.com/2018/04/10/opinions/insane-right-wing-sliming-of-david-hogg-filipovic/index.html",
+          "target" : "http://money.cnn.com/2018/04/10/news/economy/job-hopping-and-wages/index.html",
+          "time_in" : 1523418251051,
+          "time_out" : 1523417803839,
+          "title" : "Why it's better to search for a job while you already have one"
+        }, {
+          "source" : "http://money.cnn.com/2018/04/10/news/economy/job-hopping-and-wages/index.html",
+          "target" : "https://www.cnn.com/",
+          "time_in" : 1523418285618,
+          "time_out" : 1523417803839,
+          "title" : "CNN - Breaking News, Latest News and Videos"
+        }, {
+          "source" : "https://www.cnn.com/",
+          "target" : "https://www.cnn.com/videos/politics/2018/04/10/john-kennedy-zuckerberg-user-agreement-sucks-erin-sot.cnn",
+          "time_in" : 1523418338803,
+          "time_out" : 1523417803839,
+          "title" : "Senator to Zuckerberg: Your user agreement sucks"
+        }, {
+          "source" : "https://www.cnn.com/videos/politics/2018/04/10/john-kennedy-zuckerberg-user-agreement-sucks-erin-sot.cnn",
+          "target" : "https://www.cnn.com/2018/04/10/politics/preet-bharara-cnntv/index.html",
+          "time_in" : 1523418363094,
+          "time_out" : 1523417803839,
+          "title" : "Preet Bharara: 'The likelihood that Michael Cohen is going to be charged is high' - CNNPolitics"
+        }, {
+          "source" : "https://www.cnn.com/2018/04/10/politics/preet-bharara-cnntv/index.html",
+          "target" : "https://www.cnn.com/",
+          "time_in" : 1523418407080,
+          "time_out" : 1523417803839,
+          "title" : "CNN - Breaking News, Latest News and Videos"
+        }, {
+          "source" : "https://www.cnn.com/",
+          "target" : "https://www.google.com/search?q=seinfeld&oq=seinfeld&aqs=chrome.0.0l6.1414j0j4&sourceid=chrome&ie=UTF-8",
+          "time_in" : 1523418543449,
+          "time_out" : 1523417803839,
+          "title" : "seinfeld - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?q=seinfeld&oq=seinfeld&aqs=chrome.0.0l6.1414j0j4&sourceid=chrome&ie=UTF-8",
+          "target" : "https://en.wikipedia.org/wiki/Seinfeld",
+          "time_in" : 1523418546463,
+          "time_out" : 1523417803839,
+          "title" : "Seinfeld - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Seinfeld",
+          "target" : "https://en.wikipedia.org/wiki/Jerry_Seinfeld",
+          "time_in" : 1523418555278,
+          "time_out" : 1523417803839,
+          "title" : "Jerry Seinfeld - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Jerry_Seinfeld",
+          "target" : "https://en.wikipedia.org/wiki/Seinfeld",
+          "time_in" : 1523418561191,
+          "time_out" : 1523417803839,
+          "title" : "Seinfeld - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Seinfeld",
+          "target" : "https://en.wikipedia.org/wiki/Larry_David",
+          "time_in" : 1523418594947,
+          "time_out" : 1523417803839,
+          "title" : "Larry David - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Larry_David",
+          "target" : "https://www.google.com/search?q=yahoo&oq=yahoo&aqs=chrome..69i57j0l5.774j0j4&sourceid=chrome&ie=UTF-8",
+          "time_in" : 1523418636355,
+          "time_out" : 1523417803839,
+          "title" : "yahoo - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?q=yahoo&oq=yahoo&aqs=chrome..69i57j0l5.774j0j4&sourceid=chrome&ie=UTF-8",
+          "target" : "https://finance.yahoo.com/news/america-richest-zip-code-100000530.html",
+          "time_in" : 1523418641492,
+          "time_out" : 1523417803839,
+          "title" : "This Is America’s Richest Zip Code"
+        }, {
+          "source" : "https://finance.yahoo.com/news/america-richest-zip-code-100000530.html",
+          "target" : "https://www.google.com/search?q=Fisher+Island&oq=Fisher+Island&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+          "time_in" : 1523418697857,
+          "time_out" : 1523417803839,
+          "title" : "Fisher Island - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?q=Fisher+Island&oq=Fisher+Island&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+          "target" : "https://en.wikipedia.org/wiki/Fisher_Island,_Florida",
+          "time_in" : 1523418700614,
+          "time_out" : 1523417803839,
+          "title" : "Fisher Island, Florida - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Fisher_Island,_Florida",
+          "target" : "https://www.google.com/search?q=Fisher+Island&oq=fisher+island&aqs=chrome.0.69i59j0l3j69i60l2.2726j0j4&sourceid=chrome&ie=UTF-8",
+          "time_in" : 1523418751653,
+          "time_out" : 1523417803839,
+          "title" : "Fisher Island - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?q=Fisher+Island&oq=fisher+island&aqs=chrome.0.69i59j0l3j69i60l2.2726j0j4&sourceid=chrome&ie=UTF-8",
+          "target" : "https://www.google.com/maps/place/Fisher+Island,+FL+33109/data=!4m2!3m1!1s0x88d9b4f8c789a303:0xeec2607c3852bfd7?sa=X&ved=0ahUKEwi1zJqMqbHaAhWm6YMKHSr2BRwQ8gEIzwEwEQ",
+          "time_in" : 1523418754863,
+          "time_out" : 1523417803839,
+          "title" : "Fisher Island - Google Maps"
+        }, {
+          "source" : "https://www.google.com/maps/place/Fisher+Island,+FL+33109/data=!4m2!3m1!1s0x88d9b4f8c789a303:0xeec2607c3852bfd7?sa=X&ved=0ahUKEwi1zJqMqbHaAhWm6YMKHSr2BRwQ8gEIzwEwEQ",
+          "target" : "https://www.google.com/search?q=key+biscane&oq=key+biscane&aqs=chrome..69i57j69i60.2406j0j7&sourceid=chrome&ie=UTF-8",
+          "time_in" : 1523418888499,
+          "time_out" : 1523417803839,
+          "title" : "key biscane - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?q=key+biscane&oq=key+biscane&aqs=chrome..69i57j69i60.2406j0j7&sourceid=chrome&ie=UTF-8",
+          "target" : "https://en.wikipedia.org/wiki/Key_Biscayne,_Florida",
+          "time_in" : 1523418892876,
+          "time_out" : 1523417803839,
+          "title" : "Key Biscayne, Florida - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Key_Biscayne,_Florida",
+          "target" : "https://www.google.com/maps/@25.6354441,-80.1650327,9281a,35y,38.08t/data=!3m1!1e3",
+          "time_in" : 1523418754863,
+          "time_out" : 1523417803839,
+          "title" : "Google Maps"
+        }, {
+          "source" : "https://www.google.com/maps/@25.6354441,-80.1650327,9281a,35y,38.08t/data=!3m1!1e3",
+          "target" : "https://en.wikipedia.org/wiki/Key_Biscayne,_Florida",
+          "time_in" : 1523418892876,
+          "time_out" : 1523417803839,
+          "title" : "Key Biscayne, Florida - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Key_Biscayne,_Florida",
+          "target" : "https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",
+          "time_in" : 1523419184908,
+          "time_out" : 1523417803839,
+          "title" : "Miami-Dade County, Florida - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",
+          "target" : "https://en.wikipedia.org/wiki/White_Latin_Americans",
+          "time_in" : 1523419220511,
+          "time_out" : 1523417803839,
+          "title" : "White Latin Americans - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/White_Latin_Americans",
+          "target" : "https://en.wikipedia.org/wiki/Levant",
+          "time_in" : 1523419234561,
+          "time_out" : 1523417803839,
+          "title" : "Levant - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Levant",
+          "target" : "https://en.wikipedia.org/wiki/White_Latin_Americans",
+          "time_in" : 1523419236343,
+          "time_out" : 1523417803839,
+          "title" : "White Latin Americans - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/White_Latin_Americans",
+          "target" : "https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",
+          "time_in" : 1523419254910,
+          "time_out" : 1523417803839,
+          "title" : "Miami-Dade County, Florida - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",
+          "target" : "https://en.wikipedia.org/wiki/Miami",
+          "time_in" : 1523419286926,
+          "time_out" : 1523417803839,
+          "title" : "Miami - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Miami",
+          "target" : "https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",
+          "time_in" : 1523419309156,
+          "time_out" : 1523417803839,
+          "title" : "Miami-Dade County, Florida - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",
+          "target" : "https://en.wikipedia.org/wiki/Key_Biscayne,_Florida",
+          "time_in" : 1523419311516,
+          "time_out" : 1523417803839,
+          "title" : "Key Biscayne, Florida - Wikipedia"
+        } ],
+        "limbo" : {
+          "source" : "https://en.wikipedia.org/wiki/Key_Biscayne,_Florida",
+          "target" : "https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",
+          "time_in" : 1523419314035,
+          "title" : "Miami-Dade County, Florida - Wikipedia"
+        }
+      }
+    },
+    "two" : {
+      "session" : {
+        "count" : {
+          "count" : 28
+        },
+        "events" : [ {
+          "source" : "",
+          "target" : "http://www.foxnews.com/trending/",
+          "time_in" : 1523417737763,
+          "time_out" : 1523417698245,
+          "title" : "Trending on Fox News | Fox News"
+        }, {
+          "source" : "http://www.foxnews.com/trending/",
+          "target" : "http://insider.foxnews.com/2018/04/10/hannity-rips-mueller-probe-declared-war-donald-trump-cohen-raid",
+          "time_in" : 1523417812194,
+          "time_out" : 1523417698245,
+          "title" : "Hannity: 'Rogue' Mueller 'Declared War Against Trump' With Cohen Raid | Fox News Insider"
+        }, {
+          "source" : "http://insider.foxnews.com/2018/04/10/hannity-rips-mueller-probe-declared-war-donald-trump-cohen-raid",
+          "target" : "http://www.statisticshowto.com/",
+          "time_in" : 1523417922663,
+          "time_out" : 1523417698245,
+          "title" : "Statistics How To: Elementary Statistics for the rest of us!"
+        }, {
+          "source" : "http://www.statisticshowto.com/",
+          "target" : "http://www.statisticshowto.com/probability-and-statistics/",
+          "time_in" : 1523417927045,
+          "time_out" : 1523417698245,
+          "title" : "Probability and Statistics Topic Index - Statistics How To"
+        }, {
+          "source" : "http://www.statisticshowto.com/probability-and-statistics/",
+          "target" : "http://www.statisticshowto.com/blog/",
+          "time_in" : 1523417953725,
+          "time_out" : 1523417698245,
+          "title" : "Statistics Blog - Statistics How To"
+        }, {
+          "source" : "http://www.statisticshowto.com/blog/",
+          "target" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "time_in" : 1523417959895,
+          "time_out" : 1523417698245,
+          "title" : "Traveling Salesman Problem and TSP Art"
+        }, {
+          "source" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "target" : "https://arxiv.org/abs/1708.04215",
+          "time_in" : 1523417990738,
+          "time_out" : 1523417698245,
+          "title" : "[1708.04215] A Constant-Factor Approximation Algorithm for the Asymmetric Traveling Salesman Problem"
+        }, {
+          "source" : "https://arxiv.org/abs/1708.04215",
+          "target" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "time_in" : 1523417959895,
+          "time_out" : 1523417698245,
+          "title" : "Traveling Salesman Problem and TSP Art"
+        }, {
+          "source" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "target" : "https://arxiv.org/abs/1708.04215",
+          "time_in" : 1523417990738,
+          "time_out" : 1523417698245,
+          "title" : "[1708.04215] A Constant-Factor Approximation Algorithm for the Asymmetric Traveling Salesman Problem"
+        }, {
+          "source" : "https://arxiv.org/abs/1708.04215",
+          "target" : "https://mail.google.com/mail/u/0/",
+          "time_in" : 1523418268804,
+          "time_out" : 1523417698245,
+          "title" : "University of Michigan Mail"
+        }, {
+          "source" : "https://mail.google.com/mail/u/0/",
+          "target" : "https://mail.google.com/mail/u/0/#inbox",
+          "time_in" : 1523418268761,
+          "time_out" : 1523417698245,
+          "title" : "Inbox (1) - dsonal@umich.edu - University of Michigan Mail"
+        }, {
+          "source" : "https://mail.google.com/mail/u/0/#inbox",
+          "target" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "time_in" : 1523417959895,
+          "time_out" : 1523417698245,
+          "title" : "Traveling Salesman Problem and TSP Art"
+        }, {
+          "source" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "target" : "https://www.google.com/",
+          "time_in" : 1523418343002,
+          "time_out" : 1523417698245,
+          "title" : "Google"
+        }, {
+          "source" : "https://www.google.com/",
+          "target" : "https://www.google.com/search?source=hp&ei=5oTNWvOsJOHLjwTNsYXIBA&q=linear+regression+equation&oq=linear+re&gs_l=psy-ab.3.3.0i131k1j0l4j0i131k1l2j0l3.1700.7041.0.10791.17.14.1.1.1.0.259.1241.7j3j1.13.0....0...1c.1.64.psy-ab..2.13.1278.0..46j0i131i46k1j46i131k1j0i46k1.139.pY7EPjfT6qY",
+          "time_in" : 1523418354521,
+          "time_out" : 1523417698245,
+          "title" : "linear regression equation - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?source=hp&ei=5oTNWvOsJOHLjwTNsYXIBA&q=linear+regression+equation&oq=linear+re&gs_l=psy-ab.3.3.0i131k1j0l4j0i131k1l2j0l3.1700.7041.0.10791.17.14.1.1.1.0.259.1241.7j3j1.13.0....0...1c.1.64.psy-ab..2.13.1278.0..46j0i131i46k1j46i131k1j0i46k1.139.pY7EPjfT6qY",
+          "target" : "http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm",
+          "time_in" : 1523418360646,
+          "time_out" : 1523417698245,
+          "title" : "Linear Regression"
+        }, {
+          "source" : "http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm",
+          "target" : "http://www.stat.yale.edu/Courses/1997-98/101/scatter.htm",
+          "time_in" : 1523418783739,
+          "time_out" : 1523417698245,
+          "title" : "Scatterplot"
+        }, {
+          "source" : "http://www.stat.yale.edu/Courses/1997-98/101/scatter.htm",
+          "target" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "time_in" : 1523417959895,
+          "time_out" : 1523417698245,
+          "title" : "Traveling Salesman Problem and TSP Art"
+        }, {
+          "source" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "target" : "http://mathworld.wolfram.com/NP-HardProblem.html",
+          "time_in" : 1523418809068,
+          "time_out" : 1523417698245,
+          "title" : "NP-Hard Problem -- from Wolfram MathWorld"
+        }, {
+          "source" : "http://mathworld.wolfram.com/NP-HardProblem.html",
+          "target" : "http://mathworld.wolfram.com/NP-CompleteProblem.html",
+          "time_in" : 1523418852037,
+          "time_out" : 1523417698245,
+          "title" : "NP-Complete Problem -- from Wolfram MathWorld"
+        }, {
+          "source" : "http://mathworld.wolfram.com/NP-CompleteProblem.html",
+          "target" : "https://www.amazon.com/exec/obidos/ASIN/0716710447/ref=nosim/ericstreasuretro",
+          "time_in" : 1523418925486,
+          "time_out" : 1523417698245,
+          "title" : "Computers and Intractability: A Guide to the Theory of NP-completeness (A Series of books in the mathematical sciences): Michael R. Garey, David S. Johnson: 9780716710455: Amazon.com: Books"
+        }, {
+          "source" : "https://www.amazon.com/exec/obidos/ASIN/0716710447/ref=nosim/ericstreasuretro",
+          "target" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "time_in" : 1523417959895,
+          "time_out" : 1523417698245,
+          "title" : "Traveling Salesman Problem and TSP Art"
+        }, {
+          "source" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "target" : "http://mathworld.wolfram.com/NP-HardProblem.html",
+          "time_in" : 1523418809068,
+          "time_out" : 1523417698245,
+          "title" : "NP-Hard Problem -- from Wolfram MathWorld"
+        }, {
+          "source" : "http://mathworld.wolfram.com/NP-HardProblem.html",
+          "target" : "https://www.amazon.com/exec/obidos/ASIN/0716710447/ref=nosim/ericstreasuretro",
+          "time_in" : 1523418925486,
+          "time_out" : 1523417698245,
+          "title" : "Computers and Intractability: A Guide to the Theory of NP-completeness (A Series of books in the mathematical sciences): Michael R. Garey, David S. Johnson: 9780716710455: Amazon.com: Books"
+        }, {
+          "source" : "https://www.amazon.com/exec/obidos/ASIN/0716710447/ref=nosim/ericstreasuretro",
+          "target" : "http://www.stat.yale.edu/Courses/1997-98/101/scatter.htm",
+          "time_in" : 1523418783739,
+          "time_out" : 1523417698245,
+          "title" : "Scatterplot"
+        }, {
+          "source" : "http://www.stat.yale.edu/Courses/1997-98/101/scatter.htm",
+          "target" : "http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm",
+          "time_in" : 1523418963620,
+          "time_out" : 1523417698245,
+          "title" : "Linear Regression"
+        }, {
+          "source" : "http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm",
+          "target" : "https://www.google.com/search?source=hp&ei=5oTNWvOsJOHLjwTNsYXIBA&q=linear+regression+equation&oq=linear+re&gs_l=psy-ab.3.3.0i131k1j0l4j0i131k1l2j0l3.1700.7041.0.10791.17.14.1.1.1.0.259.1241.7j3j1.13.0....0...1c.1.64.psy-ab..2.13.1278.0..46j0i131i46k1j46i131k1j0i46k1.139.pY7EPjfT6qY",
+          "time_in" : 1523418965829,
+          "time_out" : 1523417698245,
+          "title" : "linear regression equation - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?source=hp&ei=5oTNWvOsJOHLjwTNsYXIBA&q=linear+regression+equation&oq=linear+re&gs_l=psy-ab.3.3.0i131k1j0l4j0i131k1l2j0l3.1700.7041.0.10791.17.14.1.1.1.0.259.1241.7j3j1.13.0....0...1c.1.64.psy-ab..2.13.1278.0..46j0i131i46k1j46i131k1j0i46k1.139.pY7EPjfT6qY",
+          "target" : "http://www.kean.edu/~fosborne/bstat/09rc.html",
+          "time_in" : 1523418973690,
+          "time_out" : 1523417698245,
+          "title" : "Regression and Correlation"
+        }, {
+          "source" : "http://www.kean.edu/~fosborne/bstat/09rc.html",
+          "target" : "https://www.google.com/search?source=hp&ei=5oTNWvOsJOHLjwTNsYXIBA&q=linear+regression+equation&oq=linear+re&gs_l=psy-ab.3.3.0i131k1j0l4j0i131k1l2j0l3.1700.7041.0.10791.17.14.1.1.1.0.259.1241.7j3j1.13.0....0...1c.1.64.psy-ab..2.13.1278.0..46j0i131i46k1j46i131k1j0i46k1.139.pY7EPjfT6qY",
+          "time_in" : 1523419050112,
+          "time_out" : 1523417698245,
+          "title" : "linear regression equation - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?source=hp&ei=5oTNWvOsJOHLjwTNsYXIBA&q=linear+regression+equation&oq=linear+re&gs_l=psy-ab.3.3.0i131k1j0l4j0i131k1l2j0l3.1700.7041.0.10791.17.14.1.1.1.0.259.1241.7j3j1.13.0....0...1c.1.64.psy-ab..2.13.1278.0..46j0i131i46k1j46i131k1j0i46k1.139.pY7EPjfT6qY",
+          "target" : "https://www.google.com/search?ei=8oTNWt-vE4rqjwTWxLDICg&q=cross+entropy&oq=cross+entropy&gs_l=psy-ab.3..0i131k1j0l9.27787.31049.0.31509.13.7.0.6.6.0.142.590.6j1.7.0....0...1c.1.64.psy-ab..0.13.667...0i67k1j0i131i67k1.0.x-MCcYeMzUE",
+          "time_in" : 1523419082527,
+          "time_out" : 1523417698245,
+          "title" : "cross entropy - Google Search"
+        } ],
+        "limbo" : {
+          "source" : "https://www.google.com/search?ei=8oTNWt-vE4rqjwTWxLDICg&q=cross+entropy&oq=cross+entropy&gs_l=psy-ab.3..0i131k1j0l9.27787.31049.0.31509.13.7.0.6.6.0.142.590.6j1.7.0....0...1c.1.64.psy-ab..0.13.667...0i67k1j0i131i67k1.0.x-MCcYeMzUE",
+          "target" : "http://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html",
+          "time_in" : 1523419092283,
+          "title" : "Loss Functions — ML Cheatsheet documentation"
+        }
+      }
+    },
+    "three" : {
+      "session" : {
+        "count" : {
+          "count" : 12
+        },
+        "events" : [ {
+          "source" : "",
+          "target" : "https://clients5.google.com/pagead/drt/dn/",
+          "time_in" : 1523417738923,
+          "time_out" : 1523417646521,
+          "title" : ""
+        }, {
+          "source" : "https://clients5.google.com/pagead/drt/dn/",
+          "target" : "https://www.google.com/search?source=hp&ei=iYLNWpDEKeT-jwTvwZqABA&q=wiki&oq=wiki&gs_l=psy-ab.3..0i131k1l3j0j0i131k1j0l5.71882.72323.0.72624.8.5.0.0.0.0.64.213.4.5.0....0...1.1.64.psy-ab..3.5.307.6..35i39k1.95.MKyj_ou9Xek",
+          "time_in" : 1523417811106,
+          "time_out" : 1523417646521,
+          "title" : "wiki - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?source=hp&ei=iYLNWpDEKeT-jwTvwZqABA&q=wiki&oq=wiki&gs_l=psy-ab.3..0i131k1l3j0j0i131k1j0l5.71882.72323.0.72624.8.5.0.0.0.0.64.213.4.5.0....0...1.1.64.psy-ab..3.5.307.6..35i39k1.95.MKyj_ou9Xek",
+          "target" : "https://en.wikipedia.org/wiki/Wiki",
+          "time_in" : 1523417812445,
+          "time_out" : 1523417646521,
+          "title" : "Wiki - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Wiki",
+          "target" : "https://www.google.com/search?q=fifa+18+dataset&oq=fifa+18+&aqs=chrome.1.69i57j35i39j0l4.4550j0j4&sourceid=chrome&ie=UTF-8",
+          "time_in" : 1523417846721,
+          "time_out" : 1523417646521,
+          "title" : "fifa 18 dataset - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?q=fifa+18+dataset&oq=fifa+18+&aqs=chrome.1.69i57j35i39j0l4.4550j0j4&sourceid=chrome&ie=UTF-8",
+          "target" : "https://www.google.com/search?ei=9oLNWrbgIKbIjwTq_oaoCA&q=lda+statistics&oq=LDA+stat&gs_l=psy-ab.3.0.0l2j0i22i30k1l8.48311.89651.0.90574.20.17.3.0.0.0.241.1306.13j2j1.17.0....0...1.1.64.psy-ab..0.20.1467.6..35i39k1j0i131k1j0i131i46k1j46i131k1j0i131i67k1j0i67k1j0i20i263k1j0i10k1.152.a8bUxLDVnzk",
+          "time_in" : 1523417938064,
+          "time_out" : 1523417646521,
+          "title" : "lda statistics - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?ei=9oLNWrbgIKbIjwTq_oaoCA&q=lda+statistics&oq=LDA+stat&gs_l=psy-ab.3.0.0l2j0i22i30k1l8.48311.89651.0.90574.20.17.3.0.0.0.241.1306.13j2j1.17.0....0...1.1.64.psy-ab..0.20.1467.6..35i39k1j0i131k1j0i131i46k1j46i131k1j0i131i67k1j0i67k1j0i20i263k1j0i10k1.152.a8bUxLDVnzk",
+          "target" : "https://en.wikipedia.org/wiki/Linear_discriminant_analysis",
+          "time_in" : 1523417940763,
+          "time_out" : 1523417646521,
+          "title" : "Linear discriminant analysis - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Linear_discriminant_analysis",
+          "target" : "https://en.wikipedia.org/wiki/Dependent_and_independent_variables",
+          "time_in" : 1523417987938,
+          "time_out" : 1523417646521,
+          "title" : "Dependent and independent variables - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Dependent_and_independent_variables",
+          "target" : "https://en.wikipedia.org/wiki/Vector-valued_function",
+          "time_in" : 1523418039932,
+          "time_out" : 1523417646521,
+          "title" : "Vector-valued function - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Vector-valued_function",
+          "target" : "https://www.youtube.com/",
+          "time_in" : 1523418317058,
+          "time_out" : 1523417646521,
+          "title" : "(2) YouTube"
+        }, {
+          "source" : "https://www.youtube.com/",
+          "target" : "https://en.wikipedia.org/wiki/Vector-valued_function",
+          "time_in" : 1523418054306,
+          "time_out" : 1523417646521,
+          "title" : "Vector-valued function - Wikipedia"
+        }, {
+          "source" : "https://en.wikipedia.org/wiki/Vector-valued_function",
+          "target" : "http://its.umich.edu/communication/collaboration/google/",
+          "time_in" : 1523418331778,
+          "time_out" : 1523417646521,
+          "title" : "Google at U-M / U-M Information and Technology Services"
+        }, {
+          "source" : "http://its.umich.edu/communication/collaboration/google/",
+          "target" : "https://www.google.com/",
+          "time_in" : 1523418344109,
+          "time_out" : 1523417646521,
+          "title" : "Google"
+        }, {
+          "source" : "https://www.google.com/",
+          "target" : "https://www.google.com/search?source=hp&ei=54TNWoCZNKapjwSSvKq4DA&q=LDA+best+resources&oq=LDA+best+resources&gs_l=psy-ab.3...3371.7613.0.7725.23.16.0.0.0.0.404.1488.1j2j3j0j1.7.0....0...1.1.64.psy-ab..17.5.991.0..0j0i22i30k1j0i22i10i30k1j33i21k1j33i160k1.0.qP7l09AHPYU",
+          "time_in" : 1523418352318,
+          "time_out" : 1523417646521,
+          "title" : "LDA best resources - Google Search"
+        } ],
+        "limbo" : {
+          "source" : "https://www.google.com/search?source=hp&ei=54TNWoCZNKapjwSSvKq4DA&q=LDA+best+resources&oq=LDA+best+resources&gs_l=psy-ab.3...3371.7613.0.7725.23.16.0.0.0.0.404.1488.1j2j3j0j1.7.0....0...1.1.64.psy-ab..17.5.991.0..0j0i22i30k1j0i22i10i30k1j33i21k1j33i160k1.0.qP7l09AHPYU",
+          "target" : "https://datascience.stackexchange.com/questions/4836/tutorials-on-topic-models-and-lda?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa",
+          "time_in" : 1523418359593,
+          "title" : "Tutorials on topic models and LDA - Data Science Stack Exchange"
+        }
+      }
+    },
+    "four" : {
+      "session" : {
+        "count" : {
+          "count" : 6
+        },
+        "events" : [ {
+          "source" : "",
+          "target" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "time_in" : 1523418360158,
+          "time_out" : 1523418357771,
+          "title" : "Goodwill Industries International – Google.org"
+        }, {
+          "source" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "target" : "https://arxiv.org/abs/1708.04215",
+          "time_in" : 1523418377865,
+          "time_out" : 1523418357771,
+          "title" : "[1708.04215] A Constant-Factor Approximation Algorithm for the Asymmetric Traveling Salesman Problem"
+        }, {
+          "source" : "https://arxiv.org/abs/1708.04215",
+          "target" : "https://arxiv.org/pdf/1708.04215.pdf",
+          "time_in" : 1523418380150,
+          "time_out" : 1523418357771,
+          "title" : ""
+        }, {
+          "source" : "https://arxiv.org/pdf/1708.04215.pdf",
+          "target" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "time_in" : 1523418360158,
+          "time_out" : 1523418357771,
+          "title" : "Goodwill Industries International – Google.org"
+        }, {
+          "source" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "target" : "https://arxiv.org/abs/1708.04215",
+          "time_in" : 1523418419661,
+          "time_out" : 1523418357771,
+          "title" : "[1708.04215] A Constant-Factor Approximation Algorithm for the Asymmetric Traveling Salesman Problem"
+        }, {
+          "source" : "https://arxiv.org/abs/1708.04215",
+          "target" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "time_in" : 1523418360158,
+          "time_out" : 1523418357771,
+          "title" : "Goodwill Industries International – Google.org"
+        }, {
+          "source" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "target" : "https://www.google.com/search?q=pdf+chrome+extension&oq=pdf+chrome+extension&aqs=chrome..69i57j0l5.11573j0j7&sourceid=chrome&ie=UTF-8",
+          "time_in" : 1523418467183,
+          "time_out" : 1523418357771,
+          "title" : "pdf chrome extension - Google Search"
+        }, {
+          "source" : "https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en&utm_medium=sidebar&utm_source=donate&utm_campaign=C13_en.wikipedia.org",
+          "target" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "time_in" : 1523417211902,
+          "time_out" : 1523416985031,
+          "title" : "Goodwill Industries International – Google.org"
+        }, {
+          "source" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "target" : "https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en&utm_medium=sidebar&utm_source=donate&utm_campaign=C13_en.wikipedia.org",
+          "time_in" : 1523417237825,
+          "time_out" : 1523416985031,
+          "title" : "Make your donation now - Donate"
+        }, {
+          "source" : "https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en&utm_medium=sidebar&utm_source=donate&utm_campaign=C13_en.wikipedia.org",
+          "target" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "time_in" : 1523417211902,
+          "time_out" : 1523416985031,
+          "title" : "Goodwill Industries International – Google.org"
+        }, {
+          "source" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "target" : "https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en&utm_medium=sidebar&utm_source=donate&utm_campaign=C13_en.wikipedia.org",
+          "time_in" : 1523417237825,
+          "time_out" : 1523416985031,
+          "title" : "Make your donation now - Donate"
+        }, {
+          "source" : "https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en&utm_medium=sidebar&utm_source=donate&utm_campaign=C13_en.wikipedia.org",
+          "target" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "time_in" : 1523417211902,
+          "time_out" : 1523416985031,
+          "title" : "Goodwill Industries International – Google.org"
+        }, {
+          "source" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "target" : "https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en&utm_medium=sidebar&utm_source=donate&utm_campaign=C13_en.wikipedia.org",
+          "time_in" : 1523417237825,
+          "time_out" : 1523416985031,
+          "title" : "Make your donation now - Donate"
+        }, {
+          "source" : "https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en&utm_medium=sidebar&utm_source=donate&utm_campaign=C13_en.wikipedia.org",
+          "target" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "time_in" : 1523417211902,
+          "time_out" : 1523416985031,
+          "title" : "Goodwill Industries International – Google.org"
+        }, {
+          "source" : "https://www.google.org/our-work/economic-opportunity/goodwill-industries/",
+          "target" : "https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en&utm_medium=sidebar&utm_source=donate&utm_campaign=C13_en.wikipedia.org",
+          "time_in" : 1523417237825,
+          "time_out" : 1523416985031,
+          "title" : "Make your donation now - Donate"
+        }, {
+          "source" : "https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&country=US&uselang=en&utm_medium=sidebar&utm_source=donate&utm_campaign=C13_en.wikipedia.org",
+          "target" : "https://www.google.com/search?q=bokeh+networkx&oq=bokeh+network&aqs=chrome.0.0j69i57j0l4.6734j0j7&sourceid=chrome&ie=UTF-8",
+          "time_in" : 1523417655706,
+          "time_out" : 1523416985031,
+          "title" : "bokeh networkx - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?q=bokeh+networkx&oq=bokeh+network&aqs=chrome.0.0j69i57j0l4.6734j0j7&sourceid=chrome&ie=UTF-8",
+          "target" : "https://bokeh.pydata.org/en/latest/docs/user_guide/graph.html",
+          "time_in" : 1523417658095,
+          "time_out" : 1523416985031,
+          "title" : "Visualizing Network Graphs — Bokeh 0.12.15 documentation"
+        }, {
+          "source" : "https://bokeh.pydata.org/en/latest/docs/user_guide/graph.html",
+          "target" : "https://console.firebase.google.com/u/0/project/fir-test-4a845/database/fir-test-4a845/data",
+          "time_in" : 1523417757253,
+          "time_out" : 1523416985031,
+          "title" : "Firebase console"
+        }, {
+          "source" : "https://console.firebase.google.com/u/0/project/fir-test-4a845/database/fir-test-4a845/data",
+          "target" : "https://www.google.com/search?q=%22http%3A%2F%2Fwww.statisticshowto.com%2Ftraveling-salesman-problem-and-tsp-art%2F&oq=%22http%3A%2F%2Fwww.statisticshowto.com%2Ftraveling-salesman-problem-and-tsp-art%2F&aqs=chrome..69i57.450j0j7&sourceid=chrome&ie=UTF-8",
+          "time_in" : 1523418100749,
+          "time_out" : 1523416985031,
+          "title" : "\"http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/ - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?q=%22http%3A%2F%2Fwww.statisticshowto.com%2Ftraveling-salesman-problem-and-tsp-art%2F&oq=%22http%3A%2F%2Fwww.statisticshowto.com%2Ftraveling-salesman-problem-and-tsp-art%2F&aqs=chrome..69i57.450j0j7&sourceid=chrome&ie=UTF-8",
+          "target" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "time_in" : 1523418103524,
+          "time_out" : 1523416985031,
+          "title" : "Traveling Salesman Problem and TSP Art"
+        }, {
+          "source" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "target" : "https://console.firebase.google.com/u/0/project/fir-test-4a845/database/fir-test-4a845/data",
+          "time_in" : 1523417757253,
+          "time_out" : 1523416985031,
+          "title" : "firebasetest – Database – Firebase console"
+        }, {
+          "source" : "https://console.firebase.google.com/u/0/project/fir-test-4a845/database/fir-test-4a845/data",
+          "target" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "time_in" : 1523418103524,
+          "time_out" : 1523416985031,
+          "title" : "Traveling Salesman Problem and TSP Art"
+        }, {
+          "source" : "http://www.statisticshowto.com/traveling-salesman-problem-and-tsp-art/",
+          "target" : "https://arxiv.org/abs/1708.04215%22",
+          "time_in" : 1523418132209,
+          "time_out" : 1523416985031,
+          "title" : "[1708.04215\"] Bad paper identifier"
+        }, {
+          "source" : "https://arxiv.org/abs/1708.04215%22",
+          "target" : "https://console.firebase.google.com/u/0/project/fir-test-4a845/database/fir-test-4a845/data",
+          "time_in" : 1523417757253,
+          "time_out" : 1523416985031,
+          "title" : "firebasetest – Database – Firebase console"
+        }, {
+          "source" : "https://console.firebase.google.com/u/0/project/fir-test-4a845/database/fir-test-4a845/data",
+          "target" : "https://arxiv.org/abs/1708.04215%22",
+          "time_in" : 1523418132209,
+          "time_out" : 1523416985031,
+          "title" : "[1708.04215\"] Bad paper identifier"
+        }, {
+          "source" : "https://arxiv.org/abs/1708.04215%22",
+          "target" : "https://www.google.com/search?q=%22https%3A%2F%2Farxiv.org%2Fabs%2F1708.04215%22&oq=%22https%3A%2F%2Farxiv.org%2Fabs%2F1708.04215%22&aqs=chrome..69i57.441j0j4&sourceid=chrome&ie=UTF-8",
+          "time_in" : 1523418149601,
+          "time_out" : 1523416985031,
+          "title" : "\"https://arxiv.org/abs/1708.04215\" - Google Search"
+        }, {
+          "source" : "https://www.google.com/search?q=%22https%3A%2F%2Farxiv.org%2Fabs%2F1708.04215%22&oq=%22https%3A%2F%2Farxiv.org%2Fabs%2F1708.04215%22&aqs=chrome..69i57.441j0j4&sourceid=chrome&ie=UTF-8",
+          "target" : "https://arxiv.org/abs/1708.04215",
+          "time_in" : 1523418152453,
+          "time_out" : 1523416985031,
+          "title" : "[1708.04215] A Constant-Factor Approximation Algorithm for the Asymmetric Traveling Salesman Problem"
+        } ],
+        "limbo" : {
+          "source" : "https://www.google.com/search?q=pdf+chrome+extension&oq=pdf+chrome+extension&aqs=chrome..69i57j0l5.11573j0j7&sourceid=chrome&ie=UTF-8",
+          "target" : "https://arxiv.org/abs/1708.04215",
+          "time_in" : 1523418419661,
+          "title" : "[1708.04215] A Constant-Factor Approximation Algorithm for the Asymmetric Traveling Salesman Problem"
+        }
+      }
+    }
+  }
+}

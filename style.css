@@ -1,0 +1,22 @@
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+
+html * {
+  font-family: 'Tajawal', sans-serif !important;
+}
+
+h1 {
+  color: #2d3436;
+  font-size: 60px;
+  margin: 0;
+  text-decoration: underline;
+  position: absolute;
+}
